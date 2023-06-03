@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shuffle-Music-Player/static/css/main.cb7e0f49.css",
-    "main.js": "/Shuffle-Music-Player/static/js/main.05e9c811.js",
+    "main.css": "/Shuffle-Music-Player/static/css/main.cd9b8aa2.css",
+    "main.js": "/Shuffle-Music-Player/static/js/main.aceb9e2f.js",
     "static/js/787.28cb0dcd.chunk.js": "/Shuffle-Music-Player/static/js/787.28cb0dcd.chunk.js",
     "static/media/Dusk-Till-Dawn(PagalWorld).mp3": "/Shuffle-Music-Player/static/media/Dusk-Till-Dawn(PagalWorld).95b1f16a5f0755cb303c.mp3",
     "static/media/Cold - Neffex-(DJMaza).mp3": "/Shuffle-Music-Player/static/media/Cold - Neffex-(DJMaza).c9e467878959da0520cf.mp3",
@@ -36,12 +36,12 @@
     "static/media/download (16).jpg": "/Shuffle-Music-Player/static/media/download (16).c45083ffa85df16d8e06.jpg",
     "static/media/download (12).jpg": "/Shuffle-Music-Player/static/media/download (12).123b8941d527200704c7.jpg",
     "index.html": "/Shuffle-Music-Player/index.html",
-    "main.cb7e0f49.css.map": "/Shuffle-Music-Player/static/css/main.cb7e0f49.css.map",
-    "main.05e9c811.js.map": "/Shuffle-Music-Player/static/js/main.05e9c811.js.map",
+    "main.cd9b8aa2.css.map": "/Shuffle-Music-Player/static/css/main.cd9b8aa2.css.map",
+    "main.aceb9e2f.js.map": "/Shuffle-Music-Player/static/js/main.aceb9e2f.js.map",
     "787.28cb0dcd.chunk.js.map": "/Shuffle-Music-Player/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb7e0f49.css",
-    "static/js/main.05e9c811.js"
+    "static/css/main.cd9b8aa2.css",
+    "static/js/main.aceb9e2f.js"
   ]
 }
